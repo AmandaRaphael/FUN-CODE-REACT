@@ -1,0 +1,37 @@
+.main{
+    display:flex;
+    justify-content: center;
+}
+.container{
+    background-color: rgb(151, 232, 243);
+    width:40vw;
+    height:45vw;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 13%;
+}
+.para{
+    color:rgb(55, 5, 148);
+    font-size: 40px;
+    text-align: center;
+}
+.pwd,.para{
+    margin:2%;
+     font-size:25px
+}
+.para a{
+    color:rgb(2, 36, 37);
+   
+}
+@media only screen and (max-width: 768px) {
+    .container{
+           height:100vh;
+           padding:4%
+    }
+    .para{
+        font-size:medium;
+    }
+ 
+}

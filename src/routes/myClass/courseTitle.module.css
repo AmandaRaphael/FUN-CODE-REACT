@@ -1,0 +1,13 @@
+.heading{
+    color:rgb(16, 101, 104);
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(240, 232, 232);
+}
+@media only screen and (max-width: 768px){
+    
+    .heading{
+        font-size: medium;
+        padding:2%
+    }
+}

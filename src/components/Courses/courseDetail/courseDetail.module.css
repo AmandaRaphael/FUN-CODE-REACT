@@ -1,0 +1,10 @@
+.courseDetailH2{
+    color:rgb(110, 11, 27);
+    font-size:70px;
+     background-color: rgba(240, 235, 229);
+}
+@media only screen and (max-width: 768px) {
+   .courseDetailH2{
+        font-size: 30px;
+    }
+}

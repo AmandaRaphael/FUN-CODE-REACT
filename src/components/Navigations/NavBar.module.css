@@ -1,0 +1,47 @@
+.navContainer{
+    background-color:whitesmoke;
+    padding-right:3%;
+    
+}
+.selected{
+     color: rgb(88, 148, 130);
+    font-size:25px;
+    padding:2%;
+ text-decoration: none;
+}
+.unselected{
+     color: rgb(10, 77, 60);
+    font-size:20px ;
+    padding:2%;
+    text-decoration: none;
+   
+}
+.title{
+    width:100vw;
+    margin-left:1%;
+  margin-right:1%
+}
+.title a{
+   text-decoration: none;
+}
+.Toggle{
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width:100% !important;
+}
+@media only screen and (max-width: 768px) {
+  #navContainer{
+    display:flex;
+    justify-content: center;
+    width:100% ;
+     margin-left:5%;
+
+  }
+  .Toggle a{
+    text-align: center ;
+  }
+  .title{
+    text-align: center;
+  }
+}

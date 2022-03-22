@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b5fd5dda.css",
+    "main.js": "/static/js/main.83632a43.js",
+    "static/media/man.jpg": "/static/media/man.d2105cdeab7d817619d0.jpg",
+    "static/media/kidmom.jpg": "/static/media/kidmom.7514b8157c1ea1362e26.jpg",
+    "static/media/pexels-christina-morillo-1181352.jpg": "/static/media/pexels-christina-morillo-1181352.b707413a000f55c58c48.jpg",
+    "static/media/FCA.gif": "/static/media/FCA.409fc06666bd1e8725fd.gif",
+    "static/media/girl.jpg": "/static/media/girl.615c97a1a198ff083c86.jpg",
+    "static/media/lady.jpg": "/static/media/lady.54184ee9c7ab53774f8a.jpg",
+    "static/media/woman.jpg": "/static/media/woman.a74b087b870e3ecdfecd.jpg",
+    "static/media/1.jpg": "/static/media/1.bb50bf007725fc58e281.jpg",
+    "static/media/scrollingBackground.jpg": "/static/media/scrollingBackground.6cd31d33d13197727601.jpg",
+    "static/media/man.webp": "/static/media/man.0c994a0b4201a62be2e5.webp",
+    "static/media/kid.jpg": "/static/media/kid.7366614a80603fe68735.jpg",
+    "static/media/background.jpg": "/static/media/background.dad7174ce9978f1d80bc.jpg",
+    "index.html": "/index.html",
+    "main.b5fd5dda.css.map": "/static/css/main.b5fd5dda.css.map",
+    "main.83632a43.js.map": "/static/js/main.83632a43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5fd5dda.css",
+    "static/js/main.83632a43.js"
+  ]
+}
